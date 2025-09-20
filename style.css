@@ -11,8 +11,7 @@ body {
   line-height: 1.6;
 }
 
-/NAVBAR
-
+/* NAVBAR */
 nav {
   background-color: white;
   display: flex;
@@ -64,7 +63,7 @@ nav ul li a:hover {
   }
 }
 
-/Reusable Classes
+/* Reusable Classes */
 .btn {
   padding: 10px 16px;
   border-radius: 6px;
@@ -112,4 +111,3 @@ footer a {
   color: orangered;
   text-decoration: none;
 }
-
